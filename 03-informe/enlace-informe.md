@@ -2,7 +2,7 @@
 
 - **Enlace a Google Docs (cualquier persona con el enlace puede ver):**
 - **Archivo subido:** `03-informe/informe.pdf`
-
+[[visualizar](https://docs.google.com/document/d/1EJQabxurokjMCj5ULdPw7FVh8wyCe_HQ_87rLeJO-5k/edit?usp=sharing)]
 ## Estructura obligatoria del informe (1–2 páginas)
 1. **Resumen ejecutivo** (máximo 5 líneas)
 2. **Marco y fuentes** (mínimo 3 fuentes citadas con enlace)
